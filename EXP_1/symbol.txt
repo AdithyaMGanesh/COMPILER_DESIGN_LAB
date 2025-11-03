@@ -1,0 +1,8 @@
+LEXEME	ID	TOKEN
+int                 1         keyword
+a                   2         identifier
+b                   3         identifier
+sum                 4         identifier
+=                   5         assign op
++                   6         Arith op
+printf              7         keyword

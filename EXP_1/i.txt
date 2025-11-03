@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+ int sum;
+ int a;
+ int b;
+printf("enter a:");
+scanf("%d",&a);
+ s = 5;
+ b = 6;
+ sum = s + b;
+ return sum;
+ 
+}
